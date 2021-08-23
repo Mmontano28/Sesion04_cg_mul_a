@@ -19,9 +19,19 @@ body {
 }
  .caja:nth-child(1){
   background: purple;
-  transform: translateX(100px)
-
+  transform: translateX(100px);
 }
-  .caja:nth-child(1):hover {
-
+.caja:nth-child(2){
+  background: purple;
+  transform: rotate(50deg);
 }
+ .caja:nth-child(3){
+  background: purple;
+  transform: scaleX(2);
+}
+.caja:nth-child(4){
+  background: purple;
+  transform: skewX(20deg);
+}
+
+
