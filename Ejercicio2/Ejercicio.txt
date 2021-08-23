@@ -10,10 +10,10 @@
 
     <body>
       <div class="contenedor">
-      <div class="caja">Translate</div>
-      <div class="rombo">Rotate</div>
-      <div class="rectangulo">Scale</div>
-      <div class="circulo">Skew</div>
+      <div class="caja"      >Translate</div>
+      <div class="rectangulo">Rotate</div>
+      <div class="circulo"   >Scale</div>
+      <div class="luna"    >Skew</div>
       </div>
 
    </body>
