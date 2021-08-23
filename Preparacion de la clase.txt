@@ -1,0 +1,7 @@
+Se miro estos archivos
+http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro23/42_transformaciones_en_3d.html
+http://di002.edv.uniovi.es/~rr/Tema2.pdf
+Y el video guia 
+https://www.youtube.com/watch?v=wRjEVX3ppFc
+Para hacer las formas basicas
+https://cybmeta.com/formas-basicas-con-css-triangulos-circulos-trapecios-rectangulos-cuadrados
